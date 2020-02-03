@@ -210,12 +210,15 @@ cask 'vlc'
 # cask 'wireshark'
 cask 'xmind'
 cask 'yed'
-# cask 'zoomus'
-
 
 # apps from the appstore
 # mas 'BetterSnapTool', id: 417375580
 
+<<<<<<< HEAD
+=======
+# is covered by MacOS since MacOS 10.15.1
+# mas 'Folder Compare', id: 535348544
+>>>>>>> 77403b7a054be1447144c4414ef9a7597d8a3f46
 # mas 'Get Plain Text', id: 508368068
 # mas 'XCode', id: 497799835
 
